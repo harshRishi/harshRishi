@@ -3,6 +3,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshrishi&label=Profile%20views&color=0e75b6&style=flat" alt="harshrishi" /> </p>
 
+## Things I do 💻
++ Developed scalable backend for real-time data from IoT devices.
++ Built frontend for viewing consumption data (live/past), remote space control, chat support, and payment
+  settlements. 
++ Building a comprehensive and organized dashboard for different teams within a company can significantly
+  enhance productivity and streamline processes. 
++ Support Team Panel: Fetch data for customer requirements.
++ Maintenance Panel: Control app maintenance, version updates, and system status checks for developers.
++ Sales Team Panel: Access sales data, onboarded spaces, customer details, partner lists, and pending
+  agreements.
++ Operations Team Panel: Obtain data on spaces and installation requirements. 
+
 - 🌱 I’m currently learning **Flutter and Go**
 
 - 💬 Ask me about **React, Next, Node, Express, Sockets**
