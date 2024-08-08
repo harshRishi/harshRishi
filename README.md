@@ -17,7 +17,7 @@ SDE @ Epvi India | ECE grad @ NIT Agartala ❤ Open Source
   agreements.
 + Operations Team Panel: Obtain data on spaces and installation requirements. 
 
-- 🌱 I’m currently learning **Flutter and Go**
+- 🌱 I’m currently learning **Go**
 
 - 💬 Ask me about **React, Next, Node, Express, Sockets**
 
