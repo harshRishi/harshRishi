@@ -19,7 +19,7 @@ SDE @ ENLOG | ECE grad @ NIT Agartala ❤ Open Source
 
 - 🌱 I’m currently learning **Go**
 
-- 💬 Ask me about **React, Next, Vue, Go, Node, Sockets**
+- 💬 Ask me about **React, Next, Vue, Go, Node, Sockets, Docker, AWS**
 
 - 📫 How to reach me **harshyelpcamp2021@gmail.com**
 
