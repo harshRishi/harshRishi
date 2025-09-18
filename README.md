@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Harsh Rishiwal</h1>
+<h1>Hi, I'm Harsh Rishiwal</h1>
 
-## 👨‍💻 About Me
+## About Me
 - SDE @ **ENLOG** | ECE Grad @ **NIT Agartala** | Open Source Contributor  
-- Backend & Full-Stack Developer | System Design Enthusiast  
-- Passionate about **Data Structures & Algorithms** and solving problems.  
-- Always exploring new tech, from **microservices** to **particle physics** 🚀🔬  
+- Backend & Full-Stack Developer with focus on **System Design**  
+- Strong foundation in **Data Structures & Algorithms** and problem solving  
+- Exploring new technologies, from **microservices** to **particle physics**  
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=harshrishi&label=Profile%20views&color=0e75b6&style=flat" alt="harshrishi" /> 
@@ -12,20 +12,20 @@
 
 ---
 
-## 💡 Things I Do
-- ⚡ Developed **scalable backends** for real-time IoT data processing.  
-- 🌐 Built **REST APIs & microservices** with **Go (Gin/Fiber)** and **Node.js**.  
-- 📦 Containerized apps with **Docker & Kubernetes** for cloud-native deployments.  
-- 📊 Created dashboards for **Clients, Maintenance, Sales, and Operations** teams.  
-- 🖥️ Worked with **Next.js 14, Vue 3 (shadcn-vue), Firebase Firestore** for modern apps.  
+## Things I Do
+- Developed scalable backends for real-time IoT data processing  
+- Built REST APIs & microservices with **Go (Gin/Fiber)** and **Node.js**  
+- Containerized applications with **Docker & Kubernetes** for cloud deployments  
+- Designed dashboards for **Clients, Maintenance, Sales, and Operations** teams  
+- Worked with **Next.js 14, Vue 3 (shadcn-vue), Firebase Firestore** for modern apps  
 
-🔭 Currently working on **Go** & **Next.js**  
-💬 Ask me about **React, Next, Vue, Go, Node, Docker, Sockets, AWS**  
-📩 Reach me at: **harshyelpcamp2021@gmail.com**  
+Currently working on **Go** & **Next.js**  
+Ask me about **React, Next, Vue, Go, Node, Docker, Sockets, AWS**  
+Reach me at: **harshyelpcamp2021@gmail.com**  
 
 ---
 
-## 🌍 Connect With Me  
+## Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0098e0?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/harsh-rishiwal-83a723151)
 [![X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/harsh_rishi5)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@harshyelpcamp)
@@ -35,7 +35,7 @@
 
 ---
 
-## 🛠️ Tools & Technologies  
+## Tools & Technologies  
 
 **Languages & Frameworks**  
 - C++, Go, Dart, Python, JavaScript / TypeScript  
@@ -52,7 +52,7 @@
 
 ---
 
-## 📊 GitHub Stats  
+## GitHub Stats
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshrishi&show_icons=true&locale=en&layout=compact&theme=dark" alt="harshrishi" />
 </p>
