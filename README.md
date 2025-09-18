@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harsh Rishiwal</h1>
+<h1>Hi, I'm Harsh Rishiwal</h1>
 
 ## About Me
 SDE @ENLOG | ECE grad @NIT Agartala | Open Source
