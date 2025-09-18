@@ -40,13 +40,10 @@ Reach me at: **harshyelpcamp2021@gmail.com**
 **Languages & Frameworks**  
 - C++, Go, Dart, Python, JavaScript / TypeScript  
 - Gin/Fiber, Node.js, Next.js, Vue 3, React, Redux, Flutter  
-
 **Databases & Cloud**  
 - PostgreSQL, MySQL, MongoDB, Firebase, AWS  
-
 **APIs & Testing**  
 - REST API, Postman, Cypress  
-
 **DevOps & Version Control**  
 - Docker, Kubernetes, Git  
 
