@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harsh Rishiwal</h1>
 
 ## About Me
-SDE @ ENLOG | ECE grad @ NIT Agartala ❤ Open Source
+SDE @ENLOG | ECE grad @NIT Agartala | Open Source
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshrishi&label=Profile%20views&color=0e75b6&style=flat" alt="harshrishi" /> </p>
 
