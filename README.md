@@ -25,16 +25,6 @@ Reach me at: **harshyelpcamp2021@gmail.com**
 
 ---
 
-## Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0098e0?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/harsh-rishiwal-83a723151)
-[![X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/harsh_rishi5)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@harshyelpcamp)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://www.leetcode.com/er3ifh8jln/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/h_rishi_5)
-[![CodeSandbox](https://img.shields.io/badge/CodeSandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white)](https://codesandbox.com/harshyelpcamp2021)
-
----
-
 ## Tools & Technologies  
 
 **Languages & Frameworks**  
