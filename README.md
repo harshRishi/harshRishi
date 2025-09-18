@@ -18,9 +18,7 @@ SDE @ ENLOG | ECE grad @ NIT Agartala ❤ Open Source
 + Operations Team Panel: Obtain data on spaces and installation requirements. 
 
 - I’m currently working on **Go** & **NextJs**
-
 - Ask me about **React, Next, Vue, Go, Node, Sockets, Docker, AWS**
-
 - How to reach me **harshyelpcamp2021@gmail.com**
 
 ## Connect with me 👨‍🚀
