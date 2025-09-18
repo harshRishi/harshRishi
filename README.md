@@ -21,7 +21,7 @@
 
 Currently working on **Go** & **Next.js**  
 Ask me about **React, Next, Vue, Go, Node, Docker, Sockets, AWS**  
-Reach me at: **harshyelpcamp2021@gmail.com**  
+Reach me at: **harshrishi767@gmail.com**  
 
 ---
 
