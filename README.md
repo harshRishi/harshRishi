@@ -6,19 +6,17 @@ SDE @ENLOG | ECE grad @NIT Agartala | Open Source
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshrishi&label=Profile%20views&color=0e75b6&style=flat" alt="harshrishi" /> </p>
 
 ## Things I do
-+ Developed scalable backend for real-time data and calucations from IoT devices.
-+ Built frontend for viewing consumption data (live/past), remote space control, chat support, and payment
-  settlements. 
-+ Building a comprehensive and organized dashboard for different teams within a company can significantly
-  enhance productivity and streamline processes. 
-+ Support Team Panel: Fetch data for customer requirements.
-+ Maintenance Panel: Control app maintenance, version updates, and system status checks for developers.
-+ Sales Team Panel: Access sales data, onboarded spaces, customer details, partner lists, and pending
-  agreements.
-+ Operations Team Panel: Obtain data on spaces and installation requirements. 
++  Software Engineer | Backend & Full-Stack Developer
++ Developed scalable backends for real-time data processing from IoT devices.
++ Built REST APIs & microservices with Go (Gin), and Node.js.
++ Containerized applications using Docker & Kubernetes for cloud-native deployments.
++ Created dashboards for Cleints, Maintenance, Sales, Operations
+ + Worked with Next.js 14, Vue 3 (shadcn-vue), and Firebase Firestore for modern web apps.
+ + Strong foundation in Data Structures & Algorithms and passionate about problem solving.
+ + Always exploring new tech, from microservices to particle physics.
 
 - I’m currently working on **Go** & **NextJs**
-- Ask me about **React, Next, Vue, Go, Node, Sockets, Docker, AWS**
+- Ask me about **React, Next, Vue, Go, Node, Docker, Sockets, AWS**
 - How to reach me **harshyelpcamp2021@gmail.com**
 
 ## Connect with me
@@ -29,9 +27,17 @@ SDE @ENLOG | ECE grad @NIT Agartala | Open Source
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/h_rishi_5)
 [![CodeSandbox](https://img.shields.io/badge/CodeSandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white)](https://codesandbox.com/harshyelpcamp2021)
 
-## Tools and tech I use tool
-+ C++, Go, Dart, Python, JavaScript, TypeScript, Node.js, Next.js, React, Redux, Flutter, Git. 
-+ Postgres, Firebase, AWS, mongoDB, MySQL, REST API, cypress, postman.
+ ## Tools & Technologies
+ 
++ Languages & Frameworks
+  - C++, Go, Dart, Python, JavaScript / TypeScript
+  - Node.js, Next.js, React, Redux, Flutter
++ Databases & Cloud
+  - PostgreSQL, MySQL, MongoDB, Firebase, AWS
++ APIs & Testing
+  - REST API, Postman, Cypress
++ DevOps & Version Control
+  - Docker, Kubernetes, Git
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshrishi&show_icons=true&locale=en&layout=compact&theme=dark" alt="harshrishi" />
