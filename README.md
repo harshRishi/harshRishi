@@ -2,7 +2,7 @@
 
 ## About Me
 - SDE @ **ENLOG** | ECE Grad @ **NIT Agartala** | Open Source Contributor  
-- Backend & Full-Stack Developer with focus on **System Design**  
+- Software Engineer, Backend & Full-Stack with focus on **System Design**  
 - Strong foundation in **Data Structures & Algorithms** and problem solving  
 - Exploring new technologies, from **microservices** to **particle physics**  
 
