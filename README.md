@@ -35,14 +35,4 @@ Reach me at: **harshrishi767@gmail.com**
 **APIs & Testing**  
 - REST API, Postman, Cypress  
 **DevOps & Version Control**  
-- Docker, Kubernetes, Git  
-
----
-
-## GitHub Stats
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshrishi&show_icons=true&locale=en&layout=compact&theme=dark" alt="harshrishi" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshrishi&theme=dark" alt="harshrishi" width="415px" />
-</p>
+- Docker, Kubernetes, Git
