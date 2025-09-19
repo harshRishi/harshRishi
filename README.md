@@ -20,7 +20,7 @@
 - Worked with **Next.js 14, Vue 3 (shadcn-vue), Firebase Firestore** for modern apps  
 
 Currently working on **Go** & **Next.js**  
-Ask me about **React, Next, Vue, Go, Node, Docker, Sockets, AWS**  
+Ask me about **GO, Next, Vue, Node, Docker, Sockets, AWS**  
 Reach me at: **harshrishi767@gmail.com**  
 
 ---
