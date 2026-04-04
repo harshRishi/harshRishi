@@ -1,38 +1,65 @@
-<h1>Hi, I'm Harsh Rishiwal</h1>
+<h1>Hi, I'm Harsh Rishiwal 👋</h1>
 
-## About Me
-- SDE @ **ENLOG** | ECE Grad @ **NIT Agartala** | Open Source Contributor  
-- Software Engineer, Backend & Full-Stack with focus on **System Design**  
-- Strong foundation in **Data Structures & Algorithms** and problem solving  
-- Exploring new technologies, from **microservices** to **particle physics**  
+## 🚀 About Me
+- Software Engineer @ **ENLOG**
+- B.Tech (ECE) @ **NIT Agartala**
+- Backend & Full-Stack Developer focused on **Scalable Systems & System Design**
+- Strong in **Data Structures & Algorithms**
+- Currently building **AI Systems (RAG, LLMs, Distributed Pipelines)**
+
+---
+
+## 🧠 What I’m Working On
+- 🔥 AI Knowledge Assistant (RAG system with Kafka, Qdrant, Ollama)
+- ⚙️ Backend systems using **Go (Gin)** & **Python (FastAPI)**
+- 📦 Distributed pipelines (Kafka + async processing)
+- 🧩 Microservices architecture & real-world system design
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Languages
+- Go, TypeScript, Python, C++, JavaScript
+
+### ⚙️ Frameworks & Libraries
+- Gin, Fiber, FastAPI, Next.js 14, Vue 3, React
+
+### 🗄 Databases & Storage
+- PostgreSQL, MongoDB, Firebase Firestore, Qdrant (Vector DB)
+
+### ☁️ DevOps & Infra
+- Docker, Kubernetes, Kafka
+- AWS (Basics)
+
+### 🔌 APIs & Tools
+- REST APIs, WebSockets
+- Postman, Cypress
+
+---
+
+## 🧩 What I’ve Built
+- Scalable backend systems for **real-time IoT data processing**
+- Full-stack dashboards for **operations, maintenance & business teams**
+- AI-powered document search system (**RAG + LLMs**)
+- Microservices with async pipelines (Kafka-based architecture)
+
+---
+
+## 📈 Currently Exploring
+- Advanced **System Design**
+- **LLMs & Retrieval-Augmented Generation (RAG)**
+- Distributed systems & high-scale backend architecture
+- Particle Physics (because why not 🚀)
+
+---
+
+## 📫 Reach Me
+- Email: **harshrishi767@gmail.com**
+- Open to collaborations on **AI + Backend Systems**
+
+---
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=harshrishi&label=Profile%20views&color=0e75b6&style=flat" alt="harshrishi" /> 
 </p>
-
----
-
-## Things I Do
-- Developed scalable backends for real-time IoT data processing  
-- Built REST APIs & microservices with **Go (Gin/Fiber)** and **Node.js**  
-- Containerized applications with **Docker & Kubernetes** for cloud deployments  
-- Designed dashboards for **Clients, Maintenance, Sales, and Operations** teams  
-- Worked with **Next.js 14, Vue 3 (shadcn-vue), Firebase Firestore** for modern apps  
-
-Currently working on **Go** & **Next.js**  
-Ask me about **GO, Next, Vue, Node, Docker, Sockets, AWS**  
-Reach me at: **harshrishi767@gmail.com**  
-
----
-
-## Tools & Technologies  
-
-**Languages & Frameworks**  
-- C++, Go, Dart, Python, JavaScript / TypeScript  
-- Gin/Fiber, Node.js, Next.js, Vue 3, React, Redux, Flutter  
-**Databases & Cloud**  
-- PostgreSQL, MySQL, MongoDB, Firebase, AWS  
-**APIs & Testing**  
-- REST API, Postman, Cypress  
-**DevOps & Version Control**  
-- Docker, Kubernetes, Git
