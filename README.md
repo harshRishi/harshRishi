@@ -10,10 +10,10 @@
 ---
 
 ## 🧠 What I’m Working On
-- 🔥 AI Knowledge Assistant (RAG system with Kafka, Qdrant, Ollama)
-- ⚙️ Backend systems using **Go (Gin)** & **Python (FastAPI)**
-- 📦 Distributed pipelines (Kafka + async processing)
-- 🧩 Microservices architecture & real-world system design
+- AI Knowledge Assistant (RAG system with Kafka, Qdrant, Ollama)
+- Backend systems using **Go (Gin)** & **Python (FastAPI)**
+- Distributed pipelines (Kafka + async processing)
+- Microservices architecture & real-world system design
 
 ---
 
