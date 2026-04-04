@@ -4,14 +4,14 @@
 - Software Engineer @ **ENLOG**
 - B.Tech (ECE) @ **NIT Agartala**
 - Backend & Full-Stack Developer focused on **Scalable Systems & System Design**
-- Strong in **Data Structures & Algorithms**
 - Currently building **AI Systems (RAG, LLMs, Distributed Pipelines)**
+- Strong in **Data Structures & Algorithms**
 
 ---
 
 ## 🧠 What I’m Working On
 - AI Knowledge Assistant (RAG system with Kafka, Qdrant, Ollama)
-- Backend systems using **Go (Gin)** & **Python (FastAPI)**
+- Backend systems using **Go (Gin/Fiber)** & **Python (FastAPI)**
 - Distributed pipelines (Kafka + async processing)
 - Microservices architecture & real-world system design
 
@@ -23,14 +23,14 @@
 - Go, TypeScript, Python, C++, JavaScript
 
 ### ⚙️ Frameworks & Libraries
-- Gin, Fiber, FastAPI, Next.js 14, Vue 3, React
+- Gin, Fiber, FastAPI, Next.js, Vue 3, React
 
 ### 🗄 Databases & Storage
-- PostgreSQL, MongoDB, Firebase Firestore, Qdrant (Vector DB)
+- PostgreSQL, Qdrant (Vector DB), Firebase Firestore
 
 ### ☁️ DevOps & Infra
 - Docker, Kubernetes, Kafka
-- AWS (Basics)
+- AWS
 
 ### 🔌 APIs & Tools
 - REST APIs, WebSockets
