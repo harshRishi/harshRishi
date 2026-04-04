@@ -1,6 +1,6 @@
 <h1>Hi, I'm Harsh Rishiwal 👋</h1>
 
-## 🚀 About Me
+## About Me
 - Software Engineer @ **ENLOG**
 - B.Tech (ECE) @ **NIT Agartala**
 - Backend & Full-Stack Developer focused on **Scalable Systems & System Design**
@@ -9,7 +9,7 @@
 
 ---
 
-## 🧠 What I’m Working On
+## What I’m Working On
 - AI Knowledge Assistant (RAG system with Kafka, Qdrant, Ollama)
 - Backend systems using **Go (Gin/Fiber)** & **Python (FastAPI)**
 - Distributed pipelines (Kafka + async processing)
@@ -19,26 +19,22 @@
 
 ## 🛠 Tech Stack
 
-### 💻 Languages
+### Languages
 - Go, TypeScript, Python, C++, JavaScript
-
-### ⚙️ Frameworks & Libraries
+### Frameworks & Libraries
 - Gin, Fiber, FastAPI, Next.js, Vue 3, React
-
-### 🗄 Databases & Storage
+### Databases & Storage
 - PostgreSQL, Qdrant (Vector DB), Firebase Firestore
-
-### ☁️ DevOps & Infra
+### DevOps & Infra
 - Docker, Kubernetes, Kafka
 - AWS
-
-### 🔌 APIs & Tools
+### APIs & Tools
 - REST APIs, WebSockets
 - Postman, Cypress
-
+  
 ---
 
-## 🧩 What I’ve Built
+## What I’ve Built
 - Scalable backend systems for **real-time IoT data processing**
 - Full-stack dashboards for **operations, maintenance & business teams**
 - AI-powered document search system (**RAG + LLMs**)
@@ -46,7 +42,7 @@
 
 ---
 
-## 📈 Currently Exploring
+## Currently Exploring
 - Advanced **System Design**
 - **LLMs & Retrieval-Augmented Generation (RAG)**
 - Distributed systems & high-scale backend architecture
@@ -54,7 +50,7 @@
 
 ---
 
-## 📫 Reach Me
+## Reach Me
 - Email: **harshrishi767@gmail.com**
 - Open to collaborations on **AI + Backend Systems**
 
