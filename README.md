@@ -1,61 +1,95 @@
 <h1>Hi, I'm Harsh Rishiwal 👋</h1>
 
 ## About Me
-- Software Engineer @ **ENLOG**
-- B.Tech (ECE) @ **NIT Agartala**
-- Backend & Full-Stack Developer focused on **Scalable Systems & System Design**
-- Currently building **AI Systems (RAG, LLMs, Distributed Pipelines)**
-- Strong in **Data Structures & Algorithms**
+
+* Software Engineer @ ENLOG
+* B.Tech (ECE) @ NIT Agartala
+* Backend & Full-Stack Engineer focused on scalable systems, distributed architecture, and AI infrastructure
+* Building retrieval systems, async pipelines, and local-first AI applications using Go, Python, Kafka, and vector databases
 
 ---
 
 ## What I’m Working On
-- AI Knowledge Assistant (RAG system with Kafka, Qdrant, Ollama)
-- Backend systems using **Go (Gin/Fiber)** & **Python (FastAPI)**
-- Distributed pipelines (Kafka + async processing)
-- Microservices architecture & real-world system design
+
+* Semnex — Offline-first RAG platform with Kafka, Qdrant, Ollama, hybrid retrieval, reranking, and async ingestion pipelines
+* Distributed backend systems using Go (Gin/Fiber) & Python (FastAPI)
+* Retrieval infrastructure and AI workflow orchestration
+* Real-world system design and scalable backend architecture
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Languages
-- Go, TypeScript, Python, C++, JavaScript
-### Frameworks & Libraries
-- Gin, Fiber, FastAPI, Next.js, Vue 3, React
-### Databases & Storage
-- PostgreSQL, Qdrant (Vector DB), Firebase Firestore
-### DevOps & Infra
-- Docker, Kubernetes, Kafka
-- AWS
-### APIs & Tools
-- REST APIs, WebSockets
-- Postman, Cypress
-  
+
+Go • TypeScript • Python • C++ • JavaScript
+
+### Backend & Frontend
+
+Gin • Fiber • FastAPI • Next.js • Vue 3 • React
+
+### Databases & Infrastructure
+
+PostgreSQL • Redis • Qdrant • Firebase • Kafka • Docker • Kubernetes • AWS
+
+### APIs & Tooling
+
+REST APIs • WebSockets • Cypress • Postman
+
 ---
 
-## What I’ve Built
-- Scalable backend systems for **real-time IoT data processing**
-- Full-stack dashboards for **operations, maintenance & business teams**
-- AI-powered document search system (**RAG + LLMs**)
-- Microservices with async pipelines (Kafka-based architecture)
+## Projects
+
+### Semnex
+
+Offline-first AI knowledge system built for semantic retrieval and local AI workflows.
+
+Features:
+
+* Kafka-based async ingestion
+* Hybrid retrieval (Vector + BM25)
+* Cross-encoder reranking
+* Qdrant vector search
+* Ollama local inference
+* Chat memory & retrieval isolation
+
+### Property Management Platform
+
+Built and scaled a multi-tenant property management platform serving ~26.5k active users.
+
+Key areas:
+
+* RBAC & hierarchical permissions
+* JWT auth & session management
+* Billing, allocations, and occupant lifecycle management
+* PostgreSQL + Redis infrastructure
+* Modular Go backend architecture
+
+### AI-Powered HRMS Portal
+
+Built an internal AI-assisted HRMS platform for workflow automation and approval management.
+
+Features:
+
+* AI-assisted approval & decision engine
+* Intelligent email workflow automation
+* Context-aware employee response generation
+* Automated approval pipelines
+* Backend workflow orchestration
 
 ---
 
 ## Currently Exploring
-- Advanced **System Design**
-- **LLMs & Retrieval-Augmented Generation (RAG)**
-- Distributed systems & high-scale backend architecture
-- Particle Physics (because why not 🚀)
+
+* Distributed systems
+* Retrieval infrastructure
+* Advanced backend architecture
+* LLM systems & evaluation
+* Particle physics 🚀
 
 ---
 
 ## Reach Me
-- Email: **harshrishi767@gmail.com**
-- Open to collaborations on **AI + Backend Systems**
 
----
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=harshrishi&label=Profile%20views&color=0e75b6&style=flat" alt="harshrishi" /> 
-</p>
+* Email: [harshrishi767@gmail.com](mailto:harshrishi767@gmail.com)
+* Open to collaborations on backend systems, AI infrastructure, and distributed systems
